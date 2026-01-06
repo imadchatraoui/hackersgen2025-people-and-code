@@ -6,6 +6,7 @@ Benvenuti alle nostre sfide di leggibilità del codice! Questo repository contie
 
 Se siete interessati alle slide e agli esempi della presentazione del 16 ottobre 2025, li trovate qui: [Presentazione](./demo)
 
+
 ## 📋 Le Sfide
 
 Ora mettetevi alla prova con tre sfide progressivamente più complesse. Ogni sfida insegna un principio fondamentale del *clean coding*, accompagnato da una breve introduzione teorica e link per approfondire.
